@@ -8,3 +8,7 @@
  *
  * Consider organizing styles into separate files for maintainability.
  */
+
+ .blue-checkbox {
+  accent-color: blue; /* Changes the checkbox color */
+}
